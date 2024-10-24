@@ -4,7 +4,7 @@ body {
     align-items: center;
     height: 100vh;
     background-color: #E5EFF5;
-    font-family: Arial, sans-serif;
+    font-family: Outfit, sans-serif;
   }
   
   .container {
@@ -32,10 +32,10 @@ body {
   }
   
   h2 {
-    font-family:;
-    font-size: 18px;
+    font-size: 26px;
     font-weight: 700;
     margin-bottom: 16px;
+    margin-top: 0px;
   }
   
   p {
